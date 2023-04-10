@@ -1,0 +1,48 @@
+[
+	{
+		"product": "Lipstick",
+        "name": "Ever Bilena Matte Lipstick - Toast of New York",
+        "brand": "Ever Bilena",
+        "shade": "Sexy Nude",
+        "price": "₱195",
+        "productDescription": "Ever bilena  brings a matte liquid lipstick as its finest, matte finished and rich color combination",
+        "image":"https://cdn.shopify.com/s/files/1/0257/1884/9583/products/43388_800x.jpg?v=1620381323"
+    },
+    
+	{
+		"product": "Foundation",
+		"name": "Fit Me Matte + Poreless Foundation",
+		"brand": "Maybelline Ney York",
+		"shade": "Natural Beige",
+		"price": "₱499",
+		"productDescription": "Maybelline's Fit Me Matte + Poreless Liquid Foundation is all about your individual skin tone and texture.\nIdeal for normal to oily skin types, this ultralightweight formula features flexible micro-powders to control shine and blur pores throughout the day.",
+		"image":"data:image/jpeg;base64,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"
+	},
+	{
+		"product": "Mascara",
+		"name": "Diorshow 24h Buildable Volume Mascara",
+		"brand": "Dior",
+		"shade": "Timeless black",
+		"price": "₱1,641",
+		"productDescription": "A mascara that builds perfectly defined lash-by-lash volume",
+		"image":"https://media.allure.com/photos/59fcc0fc6a804a1e293d691c/master/pass/dior-diorshow-mascara-buildable-volume.jpg"
+	},
+		{
+		"product": "Blush",
+		"name": "MAJOR HEADLINES - DOUBLE-TAKE CREME & POWDER BLUSH DUO",
+		"brand": "Patrick Ta",
+		"shade": "SHE'S VIBRANT (VIBRANT ORANGE RED)",
+		"price": "₱1,972",
+		"productDescription": "TWO COMPLEMENTARY BLUSH FORMULAS IN ONE COMPACT TO GIVE YOU FULL, BOLD COLOR, GUARANTEED TO TURN HEADS.",
+		"image":"https://www.sephora.com/productimages/sku/s2363844-main-zoom.jpg?imwidth=315"
+		},
+		{
+		"product": "Highlighter",
+		"name": "Sugar Glow Kit",
+		"brand": "ANASTASIA BEVERLY HILLS",
+		"shade": "white pearl",
+		"price": "₱2,373",
+		"productDescription": "A palette of four metallic powder highlighters for intense luminosity.\nWhat it does: These four shades highlight your eyes, face and body with a buildable me.",
+		"image":"https://www.mecca.com.au/on/demandware.static/-/Sites-mecca-online-catalog/default/dwe1ab5fa7/product/anasta/hr/i-038558-sugar-glow-kit-1-940.jpg"
+		}
+]
